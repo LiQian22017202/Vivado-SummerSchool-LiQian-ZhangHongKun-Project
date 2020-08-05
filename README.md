@@ -21,7 +21,7 @@ High-level-Synthesis-Flow-on-Zynq-using-Vivado-HLS-master
 Ⅳ仓库目录介绍
 	images：存放README.md文件中引用的照片
 	Sourcecode:存放项⽬源代码
-	ExecutableFiles：本⽬录存放可直接下载到板卡使⽤的FPGA 比特流文件
+	ExecutableFiles：本⽬录存放可直接下载到板卡使用的FPGA 比特流文件
 
 作品照片
 	见images文件夹
